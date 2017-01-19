@@ -1,6 +1,7 @@
+---
 resource: true
 categories: [code, unix]
-
+---
 
 This TinkerWare Level Agreement (“SLA”) is a policy governing the use of TinkerWare Platform (“TinkerWare”) under the terms of the TinkerWare Customer Agreement (the “TinkerWare Agreement”) between TinkerWare Services (“TinkerWare”, “us” or “we”) and users of TinkerWare services (“you”). This SLA applies separately to each account using TinkerWare . Unless otherwise provided herein, this SLA is subject to the terms of the TinkerWare Agreement and capitalized terms will have the meaning specified in the TinkerWare Agreement. We reserve the right to change the terms of this SLA in accordance with the TinkerWare Agreement.
 
