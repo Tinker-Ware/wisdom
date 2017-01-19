@@ -1,5 +1,11 @@
+resource: true
+categories: [code, unix]
+
+
+This TinkerWare Level Agreement (“SLA”) is a policy governing the use of TinkerWare Platform (“TinkerWare”) under the terms of the TinkerWare Customer Agreement (the “TinkerWare Agreement”) between TinkerWare Services (“TinkerWare”, “us” or “we”) and users of TinkerWare services (“you”). This SLA applies separately to each account using TinkerWare . Unless otherwise provided herein, this SLA is subject to the terms of the TinkerWare Agreement and capitalized terms will have the meaning specified in the TinkerWare Agreement. We reserve the right to change the terms of this SLA in accordance with the TinkerWare Agreement.
+
 In this article, we describe more precisely the Tasks of Tinkerware as a Service.
-This will helpt to have a more clear view of what does [TinkerWare support](tinkerware-support.slack.com/signin) covers when using our 
+This will help to have a more clear view of what does [TinkerWare support](tinkerware-support.slack.com/signin) covers when using our 
 Services and what we would expect you to have as main knowledge of some technologies
 to really take advantage of our Plattform and keep a smooth ride.
 
@@ -19,11 +25,17 @@ What does TinkerWare cover?
 - Support on best practices to configure your projects with the available tools.
 - Support on how to scale or how to use tools the best possible way.
 
+## Servers
+Stage
+
 What does TinkerWare does not cover?
 ===
 
 - Tutorials on how to use the Framework you selected from our catalog.
 - Support fixing issues caused by the Framework or internal issues of the tool
+
+## Servers
+
 
 
 For new Tools Automation the requester shoud have Knowledge on:
