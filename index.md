@@ -5,7 +5,7 @@
       {% if page.resource == true %}
             {% for pc in page.categories %}
                     {% if pc == cat %}
-                              <li><a href="{{ page.path }}">{{ page.title }}</a></li>
+                              <li><a href="wisdom/{{ page.title }}">{{ page.title }}</a></li>
                     {% endif %}   <!-- cat-match-p -->
             {% endfor %}  <!-- page-category -->
       {% endif %}   <!-- resource-p -->
