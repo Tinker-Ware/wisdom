@@ -1,3 +1,10 @@
+---
+resource: true
+categories: [Configs]
+title: Recomended mix of Conigurations
+---
+
+
 Suggestions
 ===
 
