@@ -1,6 +1,6 @@
 ---
 resource: true
-categories: [code, unix]
+categories: [Terms]
 title: TinkerWare SLA
 ---
 
