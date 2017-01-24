@@ -1,6 +1,6 @@
 ---
 resource: true
-categories: help
+categories: Help
 title: CLI on Windows
 ---
 
