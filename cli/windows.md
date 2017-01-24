@@ -1,3 +1,10 @@
+---
+resource: true
+categories: help
+title: CLI on Windows
+---
+
+
 # Como instalar CLI en Windows
 
 1. Bajar archivo ejecutable del CLI
