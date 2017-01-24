@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 category-list: [Configs, Terms]
+include: ["_pages"]
+permalink: /:title/
