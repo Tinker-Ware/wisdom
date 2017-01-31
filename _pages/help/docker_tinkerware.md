@@ -4,11 +4,11 @@ categories: Help
 title: TinkerWare works with Docker too.
 ---
 
-# Don't Repeat Yourself
-
-# Complexity does NOT dissappear
+# Don't Repeat Yourself. TinkerWare works with Docker too.
 
 ### Building, Maintaining, Deploying Containers
+
+## Complexity does NOT dissappear
 
 A container doesn't consume complexity and emit order. The complexity is still in there; 
 you still have to build your containers in a way that is replicable, reliable, and automatable.
