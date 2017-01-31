@@ -41,6 +41,8 @@ With the **subscription** you will get:
       
 You can see our list of prices in our [landing page](tinkerware.io) or contact us to hello@tinkerware.io. We currently charge by month, with a free one month trial.
 
+We're on a Closed Beta Phase. If you would like to be a Beta User follow [this request invite link](https://docs.google.com/forms/d/e/1FAIpQLSchhpeugqAFifxxsq65LvLKYSG3oBmUT7V0v_eNM6c3toKcFA/viewform)
+
 
 # Disclosure*
 
