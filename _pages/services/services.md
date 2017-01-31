@@ -4,9 +4,9 @@ categories: [Services]
 title: TinkerWare Services
 ---
 
-We provide the tools to make software delivery more agile.
+TinkerWare provides the tools to make software delivery more agile.
 
-Technically, Tinkerware **automates the creation and management of standardized environments** 
+Technically, TinkerWare **automates the creation and management of standardized environments** 
 to reduce the differences between them and make integrations smoother in
 your Software projects. We provide a platform to manage projects and their 
 servers configurations easily.
@@ -46,13 +46,13 @@ You can see our list of prices in our [landing page](tinkerware.io) or contact u
 
 ## Containers.
 
-We don't prentend to replace them. We want you to use them easily and faster!
+TinkerWare doesn't prentend to replace them. We want you to use them easily and faster!
 We want you to be able define your own architecture, as well as 
 be able to document it in a executable way, scale and replicate your projects easily to a server,
 a container, or your own pc. 
 
 ## Hosting
 
-We don't provide any kind of hosting. 
+TinkerWare won't provide any kind of hosting. 
 We have some integrations, though. Currently you can deploy your projects automatically to 
 Digital Ocean servers. Up to come: AWS, OVH, easier In-House tools....
