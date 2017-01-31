@@ -55,9 +55,7 @@ as a means to distribute things like their application or services.
 
 In a few words, once more: 
 
-```
-   Tinkerware wants the users to define their own architecture. We just make that faster and easier
-```
+**Tinkerware wants the users to define their own architecture. We just make that faster and easier**
 
 Speaking about Docker specifically, we setup containers based on your defined configurations.
 
