@@ -42,7 +42,7 @@ With the **subscription** you will get:
 You can see our list of prices in our [landing page](tinkerware.io) or contact us to hello@tinkerware.io. We currently charge by month, with a free one month trial.
 
 
-#Disclosure*
+# Disclosure*
 
 ## Containers.
 
