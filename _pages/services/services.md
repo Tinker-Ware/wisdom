@@ -31,7 +31,7 @@ With the **subscription** you will get:
     - Github (Use your existing code in the infrastructure you will create)
     - ... and more...
       We want you to be happy and we can help with your needs. 
-  - Acces to a **dashboard** to manage these tools and: 
+  - Access to a **dashboard** to manage these tools and: 
     - **Create and manage projects** with the provided tools: (If you connect your GitHub repository, you sould see it working in a infrastructure ready to use anywhere)
       - A **Development environment** configured and ready to download and use with our [CLI](https://asciinema.org/a/b02jff2p4eoxy4oqnj2wo6qnt). Currently we provide a virtual machine(recommended and supported. If you want containers locally or in production, talk to us).
       - Access to **the deployment room**. A section in our dashboard where, once you managed to see your project working locally, you can replicate it to Staging or Production to any server*.
