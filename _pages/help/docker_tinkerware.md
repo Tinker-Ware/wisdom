@@ -37,6 +37,7 @@ and keep track of your infrastructure in a documented and fully functional way.
 View [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)
 
 Benefits:
+
   - Manage, scale and track your projects. The one that use Docker and the ones that doesn't
   - Work locally with docker if needed.
   - Deploy automatically even if you use docker.
@@ -53,7 +54,10 @@ The docker provisioner is ideal for organizations that are using Docker
 as a means to distribute things like their application or services. 
 
 In a few words, once more: 
-   `Tinkerware wants the users to define their own architecture. We just make that faster and easier`
+```
+   Tinkerware wants the users to define their own architecture. We just make that faster and easier
+```
+
 Speaking about Docker specifically, we setup containers based on your defined configurations.
 
 ## Credits and references.
