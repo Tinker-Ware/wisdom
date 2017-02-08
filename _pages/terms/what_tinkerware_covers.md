@@ -19,7 +19,7 @@ The user should have Basic Knowledge on:
 
 What is TinkerWare?
 ===
-Tinkerware is a service platafform that helps you to automate your  sofware development flow, we use the concepts of code as an infrastructure and disposable infraestructure. We provide a platafform for provisioning virtual machines (Vagrant) and servers, with a variety of different tools.
+Tinkerware is a service platafform that helps you to automate your  sofware development flow, we use the concepts of code as an infrastructure and disposable infraestructure. We provide a platafform for provisioning virtual machines (Vagrant or Docker) and servers, with a variety of different tools.
 
 What does TinkerWare cover?
 ===
@@ -43,7 +43,7 @@ What does TinkerWare not cover?
 ## Service Commitment
 
 Tinkerware will use comercially reasonable efforts to make our platafform available and functional(Check What does Tinkerware cover? and
-What does Tinkerware not cover? sections to clarify this) most of the time, or at least 99.95% percent of the monthly time, n other words at least 99.5% of each monthly billing cycle.
+What does Tinkerware not cover? sections to clarify this) most of the time, or at least 99.95% percent of the monthly time, in other words at least 99.5% of each monthly billing cycle.
 
 ## Servers
 
