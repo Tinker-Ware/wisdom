@@ -38,14 +38,19 @@ View [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Co
 
 Benefits:
 
-  - Manage, scale and track your projects. The one that use Docker and the ones that doesn't
-  - Work locally with docker if needed.
-  - Deploy automatically even if you use docker.
+  - **Define**.
+    - Where do you want containers and what you want in them
+  - **Manage** scale and track your containers in projects.
+    * Modify and udate your containers definitions if needed. 
+  - **Deploy** automatically even if you use docker. Don't worry about installing not even docker. It's all automatic
+    * Once your containers are defined and their contents, we provide you staging, prod and dev envs automatically.
     * A fully tested environment won't fail if it is replicated.
     * The local environment would act as the production env. That way you know it's working
     * On a clean server we take care of installing docker and mounting everything as you defined
     on your configurations using our platform. 
-  - Integrate easily new features, or even new containers to your infrastructure.
+  - **Work**
+    * Work locally with docker if needed. There are some constraints there in teams, tho... more soon.
+  - **Integrate** easily new features, or even new containers to your infrastructure.
   - Recover faster from failures with your documented configs
   - Easier to extend and maintain
   
