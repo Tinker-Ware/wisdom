@@ -88,14 +88,13 @@ If you would like to know more or talk personally, feel free to contact us. (che
 You can cancel the service at any time inside our platform, losing access our platform to configure easily any server and project, will lose access to your configured projects, automated and ready to apply tools and the privileges mentioned previously.
 
 ## Privacy
-Tinkerware ensures data privacy. Every data is encrypted ensuring the integrity, safety and privacy of the data. 
-Tinkerware won't have access to your servers and we provide you all the access to them once configured for you to handle them as you wish.
-Tinkerware won't ever access your personal information and won't have access to any of the information provided to the platform.
-Tinkerware will clean any remaining sensible data every month to ensure privacy of your variables.
-In case of any eventuality 
+  - Tinkerware ensures data privacy. Every data is encrypted ensuring the integrity, safety and privacy of the data. 
+  - Tinkerware won't have access to your servers and we provide you all the access to them once configured for you to handle them as you wish.
+  - Tinkerware won't ever access your personal information and won't have access to any of the information provided to the platform.
+  - Tinkerware will clean any remaining sensible data every month to ensure privacy of your variables.
 
-Tinkerware supports open source projects, that's why we offer full access to our automated tools and how they run, as well as our own projects
-Feel free to suppor us with pull requests, issues or any comments you may have. All in our [github repo](https://github.com/Tinker-Ware)
+  - Tinkerware supports open source projects, that's why we offer full access to our automated tools and how they run, as well as our own projects
+    Feel free to suppor us with pull requests, issues or any comments you may have. All in our [github repo](https://github.com/Tinker-Ware)
 
 Once you connect your server provider to your projects, you must follow their limitations and rules (AWS, DO, etc.)
 
