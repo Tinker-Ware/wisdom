@@ -85,10 +85,10 @@ We're on a Closed Beta Phase. If you would like to be a Beta User follow [this r
 # On the way because you requested it
 
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------------:|
-| PostgreSQL | Database | |
-| Laravel | PHP | |
-| Vue.js  | PHP | |
-| Redis   | Database | |
+| <figure><img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/postgres/logo.png" width="50"></figure> | Relational Database | [Ask for more!](https://goo.gl/forms/8U5h79MzBmbG8sqJ3) |
+| <figure><img src="https://www.devprovider.com/wp-content/themes/devprovider/assets/images/laravel.png" width="50"></figure> | PHP Framework | [Ask for more!](https://goo.gl/forms/8U5h79MzBmbG8sqJ3) |
+| <figure><img src="https://www.braveterry.com/wp-content/uploads/2015/12/vue.js.png" width="50"></figure>  | PHP tool | [Ask for more!](https://goo.gl/forms/8U5h79MzBmbG8sqJ3) |
+| <figure><img src="http://www.springpeople.com/media/catalog/product/images/course_thumb/redis.png" width="50"></figure>   | In-Memory data structure store | |
 
 # Ask for what you need!
 Tell us more about your workflow and the tools and processes you'd like to automate! You could write us to `hello@tinkerware.io` or just tell us what you need [clicking here](https://goo.gl/forms/8U5h79MzBmbG8sqJ3).
