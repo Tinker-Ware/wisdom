@@ -15,7 +15,9 @@ to really take advantage of our Plattform and keep a smooth ride.
 
 What is TinkerWare?
 ===
+<div style="text-align: justify">
 Tinkerware is an IT company in charge of a service platafform called MyDevOp, which provides automated tools ready to apply such as Frameworks, Databases, CIs, users management, security among others to create instant local, staging and production environments helping you to automate your sofware development flow making it more efficent. We use the concepts of code as an infrastructure and disposable infraestructure. We provide a platafform to configure instantly virtual machines (Vagrant or Docker) for local environments and connect repositories and the tools provided to different server providers such as Digital Ocean, AWS or even in-hose servers, with a variety of different tools supported by us.
+</div>
 
 What does TinkerWare cover?
 ===
@@ -46,14 +48,14 @@ What does TinkerWare not cover?
 - Support fixing issues caused by the Framework or internal issues of the tool
 
 ## Service Commitment
-
+<div style="text-align: justify">
 Tinkerware will use comercially reasonable efforts to make our platafform available and functional(Check What does Tinkerware cover? and
 What does Tinkerware not cover? sections to clarify this) most of the time, or at least 99.95% percent of the monthly time, in other words at least 99.5% of each monthly billing cycle.
-
+</div>
 ## Servers
-
+<div style="text-align: justify">
 Tinkerware does not provide a Servers service, nor the specs you need for your project to work, this has to be defined by your team, we don't take responsability for the charges the servers company could charge you. We encourage our users to make a conscious effort to pay just for what they need for their projects regarding storage services.
-
+</div>
 
 
 For new Tools Automation the requester shoud have Knowledge on:
