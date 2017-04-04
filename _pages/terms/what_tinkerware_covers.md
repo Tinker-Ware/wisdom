@@ -17,11 +17,11 @@ to really take advantage of our Plattform and keep a smooth ride.
 
 What is TinkerWare?
 ===
-<div style="text-align: justify">
+Tinkerware is an IT company in charge of a service platafform called MyDevOp, which provides automated tools ready to apply such as Frameworks, Databases, CIs, users management, security among others to create instant local, staging and production environments helping you to automate your sofware development flow making it more efficent. 
 
-Tinkerware is an IT company in charge of a service platafform called MyDevOp, which provides automated tools ready to apply such as Frameworks, Databases, CIs, users management, security among others to create instant local, staging and production environments helping you to automate your sofware development flow making it more efficent. We use the concepts of code as an infrastructure and disposable infraestructure. We provide a platafform to configure instantly virtual machines (Vagrant or Docker) for local environments and connect repositories and the tools provided to different server providers such as Digital Ocean, AWS or even in-hose servers, with a variety of different tools supported by us.
+We use the concepts of code as an infrastructure and disposable infraestructure.
 
-</div>
+We provide a platafform to configure instantly virtual machines (Vagrant or Docker) for local environments and connect repositories and the tools provided to different server providers such as Digital Ocean, AWS or even in-hose servers, with a variety of different tools supported by us.
 
 What does TinkerWare cover?
 ===
