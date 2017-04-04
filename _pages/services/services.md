@@ -48,7 +48,7 @@ We're on a Closed Beta Phase. If you would like to be a Beta User follow [this r
 
 |         |      |  |
 |:-----------:|:--------------------------------------------------------------:|:---------:|
-|<img src="https://danir.us/media/pictures/2013/Jul/26/buildbot-nut.png" width="75">Buildbot|   Software for the automation of the test/compilation cycle.   | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<figure><img src="https://danir.us/media/pictures/2013/Jul/26/buildbot-nut.png" width="75"><figcaption>Buildbot</figcaption></figure> |   Software for the automation of the test/compilation cycle.   | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
 |<img src="http://coenraets.org/present/react/img/react.png" width="50">|     Librería de JavaScript library to make user interfaces.     | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
 |<img src="https://raw.githubusercontent.com/docker-library/docs/c5b6d94dc8f0557925ab37ca43141c0efc5cc363/ghost/logo.png" width="50">|          Plataform for magizines, blogs, etc.          | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
 |<img src="https://appmeup.co/assets/go-lg-437922578e98d945608b86883efaf9f8.png" width="75">|           Language created by Google.          | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
