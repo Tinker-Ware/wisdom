@@ -11,6 +11,7 @@ In this article, we describe more precisely the Tasks of Tinkerware as a Service
 This will help to have a more clear view of what does [TinkerWare support](tinkerware-support.slack.com/signin) covers when using our
 Services and what we would expect you to have as main knowledge of some technologies
 to really take advantage of our Plattform and keep a smooth ride.
+</div>
 
 What is TinkerWare?
 ===
@@ -81,4 +82,3 @@ Tinkerware official address is:
   Guadalupe, Zacatecas, Mexico
   CP. 98619
 ```
-</div>
