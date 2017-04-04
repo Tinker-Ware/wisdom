@@ -11,12 +11,6 @@ This will help to have a more clear view of what does [TinkerWare support](tinke
 Services and what we would expect you to have as main knowledge of some technologies
 to really take advantage of our Plattform and keep a smooth ride.
 
-The user should have Basic Knowledge on:
-===
-
-- GitHub & SSH Keys
-  * [SSH keys](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
-
 What is TinkerWare?
 ===
 Tinkerware is a service platafform that helps you to automate your  sofware development flow, we use the concepts of code as an infrastructure and disposable infraestructure. We provide a platafform for provisioning virtual machines (Vagrant or Docker) and servers, with a variety of different tools.
@@ -24,14 +18,23 @@ Tinkerware is a service platafform that helps you to automate your  sofware deve
 What does TinkerWare cover?
 ===
 
-- Add Automated Tools to your projects. (From our Plattform catalog. E.G. CIs/Frameworks/Databases)
+## Improve your own workflow.
+
+- Access to Automated Tools for your projects. (From our Plattform catalog. E.G. CIs/Frameworks/Databases)
 - Automate new Tools for your projects. (View our Pricing page on tinkerware.io)
+
+## Support
+
 - Support fixing issues caused by the Infrastructure and our automations.
   (E.G. Infrastructure packages not being installed \ Server issues)
 - Support on best practices to configure your projects with the available tools.
 - Support on how to scale or how to use tools the best possible way.
 
+## Consultoring
 
+- For more specialized automation cicles, contact us in: `hello@tinkerware.io`,
+  in our support channel: `tinkerware-support.slack.com`
+  or to the number: `(+52)492-136-51-90`
 
 
 What does TinkerWare not cover?
@@ -59,3 +62,12 @@ For new Tools Automation the requester shoud have Knowledge on:
   * **TinkerWare** requires a direct contact with a project manager or the tool expert.
 
 - The requester has to be subscribed to our service.
+
+
+## Extra Recommendations to simplify the experience
+
+##The user should have Basic Knowledge on:
+
+- GitHub & SSH Keys
+  * [SSH keys](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+
