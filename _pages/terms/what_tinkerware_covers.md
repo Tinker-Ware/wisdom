@@ -120,7 +120,9 @@ Tinkerware official address is:
 ## Contact us
 
 Tinkerware support channel: tinkerware-support.slack.tinkerware.io
+
 Email: hello@tinkerware.io
+
 Phone: (+52) 492-136-51-90
 
 ---------
