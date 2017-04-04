@@ -77,14 +77,18 @@ For new Tools Automation the requester shoud have Knowledge on:
 
 Pricing
 ===
-A monthly subscription of 89 USD for the first automated project created and access to the [automated tools](http://help.tinkerware.io/_pages/services/services/) that TinkerWare supports.
-On the second project, the subscritpion price would be 69 USD.
-From the third and on projects, the subscription price would be fixed to 49 USD.
+  - A monthly subscription of 89 USD for the first automated project created and access to the [automated tools](http://help.tinkerware.io/_pages/services/services/) that TinkerWare supports.
 
-In case of a different currency, the currency value will be set to the one of the day of the charge, based on USD.
-The charge will be placed every month according to the day you subscribed to the service. If the charge fails, Your account will lose the privileges mentioned before but you will still have access to your projects for one more week. In case of still missing the payment, your account will be blocked until the payment is marked as successful, and an extra fee of 10% will be added to your checkout.
+  - On the second project, the subscritpion price would be 69 USD.
 
-If you would like to know more or talk personally, feel free to contact us. (check the bottom of this page)
+  - From the third and on projects, the subscription price would be fixed to 49 USD.
+
+  - In case of a different currency, the currency value will be set to the one of the day of the charge, based on USD.
+
+  - The charge will be placed every month according to the day you subscribed to the service. If the charge fails, Your account will lose the privileges mentioned before but you will still have access to your projects for one more week. In case of still missing the payment, your account will be blocked until the payment is marked as successful, and an extra fee of 10% will be added to your checkout.
+
+If you would like to know more or talk personally, feel free to contact us. (check the bottom of this page).
+
 You can cancel the service at any time inside our platform, losing access our platform to configure easily any server and project, will lose access to your configured projects, automated and ready to apply tools and the privileges mentioned previously.
 
 ## Privacy
