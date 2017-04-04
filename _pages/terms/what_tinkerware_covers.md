@@ -83,18 +83,18 @@ A monthly subscription of 89 USD for the first automated project created and acc
 On the second project, the subscritpion price would be 69 USD.
 From the third and on projects, the subscription price would be fixed to 49 USD.
 
+</div>
+<div style="text-align: justify">
 In case of a different currency, the currency value will be set to the one of the day of the charge, based on USD.
 The charge will be placed every month according to the day you subscribed to the service. If the charge fails, Your account will lose the privileges mentioned before but you will still have access to your projects for one more week. In case of still missing the payment, your account will be blocked until the payment is marked as successful, and an extra fee of 10% will be added to your checkout.
+</div>
 
+<div style="text-align: justify">
 If you would like to know more or talk personally, feel free to contact us. (check the bottom of this page)
-
 You can cancel the service at any time inside our platform, losing access our platform to configure easily any server and project, will lose access to your configured projects, automated and ready to apply tools and the privileges mentioned previously.
-
 </div>
 
 ## Privacy
-<div style="text-align: justify">
-
 Tinkerware ensures data privacy. Every data is encrypted ensuring the integrity, safety and privacy of the data. 
 Tinkerware won't have access to your servers and we provide you all the access to them once configured for you to handle them as you wish.
 Tinkerware won't ever access your personal information and won't have access to any of the information provided to the platform.
@@ -105,8 +105,6 @@ Tinkerware supports open source projects, that's why we offer full access to our
 Feel free to suppor us with pull requests, issues or any comments you may have. All in our [github repo](https://github.com/Tinker-Ware)
 
 Once you connect your server provider to your projects, you must follow their limitations and rules (AWS, DO, etc.)
-
-</div>
 
 Extra Recommendations to simplify the experience
 ==
