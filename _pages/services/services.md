@@ -48,16 +48,16 @@ We're on a Closed Beta Phase. If you would like to be a Beta User follow [this r
 
 |         |      |  |
 |:-----------:|:--------------------------------------------------------------:|:---------:|
-|<img src="https://danir.us/media/pictures/2013/Jul/26/buildbot-nut.png" width="75">|   Software for the automation of the test/compilation cycle.   | [Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<img src="http://coenraets.org/present/react/img/react.png" width="50">|     Librería de JavaScript library to make user interfaces.     | [Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<img src="https://raw.githubusercontent.com/docker-library/docs/c5b6d94dc8f0557925ab37ca43141c0efc5cc363/ghost/logo.png" width="50">|          Plataform for magizines, blogs, etc.          | [Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<img src="https://appmeup.co/assets/go-lg-437922578e98d945608b86883efaf9f8.png" width="75">|           Language created by Google.          | [Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" width="100">|              Database clasified as a NoSQL              |[Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/640px-MySQL.svg.png" width="75">|              Relational Database.               | [Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/2000px-Nginx_logo.svg.png " width="50">       |                 Web server with different. applications.                 | [Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/07/1436439824nodejs-logo.png" width="100">| Cross Plataform JavaScript with a diversity of functions. | [Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<img src="http://claudiordgz.github.io/Phoenix2D/assets/images/phoenix_logo_cropped_640.png" width="50">|          Framework of the elixir language.         | [Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<img src="http://radaxservices.com/images/plasticScm%20logo.png" width="100">|                 Version control system.         | [Contact Us](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<figure><img src="https://danir.us/media/pictures/2013/Jul/26/buildbot-nut.png" width="75"><figcaption>Buildbot</figcaption></figure>|   Software for the automation of the test/compilation cycle.   | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<img src="http://coenraets.org/present/react/img/react.png" width="50">|     Librería de JavaScript library to make user interfaces.     | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<img src="https://raw.githubusercontent.com/docker-library/docs/c5b6d94dc8f0557925ab37ca43141c0efc5cc363/ghost/logo.png" width="50">|          Plataform for magizines, blogs, etc.          | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<img src="https://appmeup.co/assets/go-lg-437922578e98d945608b86883efaf9f8.png" width="75">|           Language created by Google.          | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" width="100">|              Database clasified as a NoSQL              |[Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/640px-MySQL.svg.png" width="75">|              Relational Database.               | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/2000px-Nginx_logo.svg.png " width="50">       |                 Web server with different. applications.                 | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/07/1436439824nodejs-logo.png" width="100">| Cross Plataform JavaScript with a diversity of functions. | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<img src="http://claudiordgz.github.io/Phoenix2D/assets/images/phoenix_logo_cropped_640.png" width="50">|          Framework of the elixir language.         | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<img src="http://radaxservices.com/images/plasticScm%20logo.png" width="100">|                 Version control system.         | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
 
 
 # Disclosure*
