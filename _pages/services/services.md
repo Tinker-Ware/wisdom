@@ -44,20 +44,34 @@ You can see our list of prices in our [landing page](tinkerware.io) or contact u
 
 We're on a Closed Beta Phase. If you would like to be a Beta User follow [this request invite link](https://docs.google.com/forms/d/e/1FAIpQLSchhpeugqAFifxxsq65LvLKYSG3oBmUT7V0v_eNM6c3toKcFA/viewform)
 
-## Automated tools
+## Automated tools ready to apply
 
 |                                                                                                                                                             |                                                                |                                                      |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------------:|
+| **CIs** | | |
 |<figure><img src="https://buildbot.net/img/nut.png" width="75">Buildbot</figure>                                                                             |   Software for the automation of the test/compilation cycle.   | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+| **Languages / Frameworks** | | |
 |<figure><img src="http://coenraets.org/present/react/img/react.png" width="50">React</figure>                                                                |     JavaScript library to make user interfaces.                | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<figure><img src="https://raw.githubusercontent.com/docker-library/docs/c5b6d94dc8f0557925ab37ca43141c0efc5cc363/ghost/logo.png" width="50"></figure>        |          Plataform for magizines, blogs, etc.                  | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
 |<figure><img src="https://appmeup.co/assets/go-lg-437922578e98d945608b86883efaf9f8.png" width="75"></figure>                                                 |           Language created by Google.                          | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<figure><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" width="100"></figure>                   |              Database clasified as a NoSQL                     | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<figure><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/640px-MySQL.svg.png" width="75">MySQL</figure>                              |              Relational Database.                              | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
-|<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/2000px-Nginx_logo.svg.png" width="50"></figure>                   |                 Web server with different. applications.       | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
 |<figure><img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/07/1436439824nodejs-logo.png" width="100">NodeJS</figure>                     | Cross Plataform JavaScript with a diversity of functions.      | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
 |<figure><img src="http://claudiordgz.github.io/Phoenix2D/assets/images/phoenix_logo_cropped_640.png" width="50">Phoenix</figure>                             |          Framework of the elixir language.                     | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<figure><img src="http://perfectial.com/wp-content/uploads/2015/02/ruby.png" width="50">Ruby on Rails</figure>                                               |          Framework of the Ruby language.                       | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<figure><img src="https://www.sourcetoad.com/wp-content/uploads/2016/05/3-yii2-1024x1024.png" width="50">Yii2</figure>                                       |          Framework of the PHP language.                        | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+| **Databases** | | |
+|<figure><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" width="100"></figure>                   |              Database clasified as a NoSQL                     | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+|<figure><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/640px-MySQL.svg.png" width="75">MySQL</figure>                              |              Relational Database.                              | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+| **Web Servers** | | |
+|<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/2000px-Nginx_logo.svg.png" width="50"></figure>                   |                 Web server with different. applications.       | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+| **VC Systems** | | |
 |<figure><img src="http://radaxservices.com/images/plasticScm%20logo.png" width="100">PlasticSCM</figure>                                                     | Version control system.                                        | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+| **Content Management** | | |
+|<figure><img src="https://raw.githubusercontent.com/docker-library/docs/c5b6d94dc8f0557925ab37ca43141c0efc5cc363/ghost/logo.png" width="50"></figure>        |          Plataform for magizines, blogs, etc.                  | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3) |
+| **On the way because you requested it.** | | |
+| PostgreSQL | Database | |
+| Laravel | PHP | |
+| Vue.js  | PHP | |
+| Redis   | Database | |
+| **ASK FOR MORE!** | | [Try it now](https://goo.gl/forms/kulkyoOH9ky2rJbJ3)|
 
 # Disclosure*
 
