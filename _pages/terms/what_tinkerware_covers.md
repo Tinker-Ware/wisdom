@@ -4,6 +4,7 @@ categories: [Terms]
 title: TinkerWare SLA
 ---
 
+<div style="text-align: justify">
 This TinkerWare Level Agreement (“SLA”) is a policy governing the use of TinkerWare Platform (“TinkerWare”) under the terms of the TinkerWare Customer Agreement (the “TinkerWare Agreement”) between TinkerWare Services (“TinkerWare”, “us” or “we”) and users of TinkerWare services (“you”). This SLA applies separately to each account using TinkerWare . Unless otherwise provided herein, this SLA is subject to the terms of the TinkerWare Agreement and capitalized terms will have the meaning specified in the TinkerWare Agreement. We reserve the right to change the terms of this SLA in accordance with the TinkerWare Agreement.
 
 In this article, we describe more precisely the Tasks of Tinkerware as a Service.
@@ -13,7 +14,7 @@ to really take advantage of our Plattform and keep a smooth ride.
 
 What is TinkerWare?
 ===
-Tinkerware is a service platafform that helps you to automate your  sofware development flow, we use the concepts of code as an infrastructure and disposable infraestructure. We provide a platafform for provisioning virtual machines (Vagrant or Docker) and servers, with a variety of different tools.
+Tinkerware is an IT company in charge of a service platafform called MyDevOp, which provides automated tools ready to apply such as Frameworks, Databases, CIs, users management, security among others to create instant local, staging and production environments helping you to automate your sofware development flow making it more efficent. We use the concepts of code as an infrastructure and disposable infraestructure. We provide a platafform to configure instantly virtual machines (Vagrant or Docker) for local environments and connect repositories and the tools provided to different server providers such as Digital Ocean, AWS or even in-hose servers, with a variety of different tools supported by us.
 
 What does TinkerWare cover?
 ===
@@ -71,3 +72,13 @@ For new Tools Automation the requester shoud have Knowledge on:
 - GitHub & SSH Keys
   * [SSH keys](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
+## Headquarters
+
+Tinkerware official address is:
+```
+  Creston #24
+  Col. Cañada de la Bufa
+  Guadalupe, Zacatecas, Mexico
+  CP. 98619
+```
+</div>
