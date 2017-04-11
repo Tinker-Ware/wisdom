@@ -10,12 +10,12 @@ tags:
 
 Steps
 ===
-  * 1. Activate MySQL module when Creating a Project.
-  * 2. Configure further
+  * Activate MySQL module when Creating a Project.
+  * Configure further
     - 2.1 Root password
     - 2.2 Create Database
     - 2.3 Add Users
-  * 3. Access
+  * Access
 
 MySQL
 ===
