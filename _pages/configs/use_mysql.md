@@ -8,6 +8,14 @@ tags:
   - Configurations
 ---
 
+Steps
+===
+  * 1. Activate MySQL module when Creating a Project.
+  * 2. Configure further
+    - 2.1 Root password
+    - 2.2 Create Database
+    - 2.3 Add Users
+  * 3. Access
 
 MySQL
 ===
@@ -55,7 +63,7 @@ Now add a username and password.
 ![Save](images/save.png)
 
 
-# Now What? 
+## 3. Now What? Access
 
 You can access your database using either:
 
