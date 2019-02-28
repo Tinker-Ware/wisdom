@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-category-list: [Services, Terms, Configs, Help]
+category-list: [Services, Terms, Configs, Help, Founds]
 include: ["_pages"]
 permalink: /:title/
